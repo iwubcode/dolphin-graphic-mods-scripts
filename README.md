@@ -41,4 +41,5 @@ masks:
 ```
 
 **assets-to-metadata-graphics-mod.py** - generates a metadata file from assets (textures, shaders, and materials), ready to be used as a custom pipeline (see Dolphin [PR #11300](https://github.com/dolphin-emu/dolphin/pull/11300))
+
 **textures-to-material.py** - generates material json for textures (files that end in `_norm` or `_ao`, etc), ready to be incorporated into a custom pipeline (see Dolphin [PR #11300](https://github.com/dolphin-emu/dolphin/pull/11300))
